@@ -187,7 +187,7 @@ plt.show()
 ```
 
 ### Results
-![Likelihood of Skills Requested in Job Postings (India)](project_images\Likelihood_of_Skills_Requested_in_India.png)
+![Likelihood of Skills Requested in Job Postings (India)](project_images/Likelihood_of_Skills_Requested_in_India.png)
 
 *Bar graph visualizing the salary for the top 3 data roles in India and their top 5 skills associated with each.*
 
@@ -263,7 +263,7 @@ The visualization above tracks how the **top skills for Data Engineers in India 
 
 ### 📊 Results
 
-![Trending Top Skills for Data Engineers in India](project_images\Trending_Top_Skills_for_Data_Analysts_in_india.png)
+![Trending Top Skills for Data Engineers in India](project_images/Trending_Top_Skills_for_Data_Analysts_in_india.png)
 
 *Line chart visualizing the trending top skills for Data Engineers in India throughout 2023.*
 ### 🔍 Insights
@@ -326,7 +326,7 @@ The box plot below visualizes the **salary distribution across the top data job 
 
 ### 📊 Results
 
-![Salary Distributions of Data Jobs in the US](project_images\Salary_Distributions_of_Data_Jobs_in_the_US.png)
+![Salary Distributions of Data Jobs in the US](project_images/Salary_Distributions_of_Data_Jobs_in_the_US.png)
 
 *Box plot showing the salary distribution for the top six data job titles in the United States.*
 
@@ -395,7 +395,7 @@ These visualizations highlight the difference between **skills that command the 
 
 ### 📊 Results
 
-![The Most In-Demand & Highest Paid Skills for Data Engineers in the US](project_images\Highest_Paid_and_Most_In_Demand_Skills_for_Data_Engineers_in_the_US.png)
+![The Most In-Demand & Highest Paid Skills for Data Engineers in the US](project_images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Engineers_in_the_US.png)
 
 *Two bar charts illustrating the most in-demand skills and the highest-paid skills for Data Engineers in the U.S.*
 ### 🔍 Insights
@@ -452,7 +452,7 @@ The scatter plot compares **skill demand** against **median salary**, making it 
 
 ### 📊 Results
 
-![Most Optimal Skills for Data Engineers in the US](project_images\Most_Optimal_Skills_for_Data_Engineers_in_the_US.png)
+![Most Optimal Skills for Data Engineers in the US](project_images/Most_Optimal_Skills_for_Data_Engineers_in_the_US.png)
 
 *A scatter plot visualizing the most optimal skills (high demand and high paying) for Data Engineers in the United States.*
 
@@ -518,7 +518,7 @@ This visualization highlights how different **technology categories** compare in
 
 #### 📊 Results
 
-![Most Optimal Skills for Data Engineers in the US with Coloring by Tech Categories](project_images\Most_Optimal_Skills_for_Data_Engineers_in_the_US_with_Coloring_by_Technology.png)
+![Most Optimal Skills for Data Engineers in the US with Coloring by Tech Categories](project_images/Most_Optimal_Skills_for_Data_Engineers_in_the_US_with_Coloring_by_Technology.png)
 
 *A scatter plot showing the most optimal skills (high demand and high paying) for Data Engineers in the U.S., with colors representing different technology categories.*
 
