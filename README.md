@@ -263,7 +263,7 @@ The visualization above tracks how the **top skills for Data Engineers in India 
 
 ### 📊 Results
 
-![Trending Top Skills for Data Engineers in India](3_Final_Project/project_images/Trending_Top_Skills_for_Data_Analysts_in_india.png)
+![Trending Top Skills for Data Engineers in India](3_Final_Project/project_images/Trending_Top_Skills_for_Data_Engineers_in_india.png)
 
 *Line chart visualizing the trending top skills for Data Engineers in India throughout 2023.*
 ### 🔍 Insights
